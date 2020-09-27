@@ -1,2 +1,9 @@
 # martin
-Nothing
+#EXTM3U
+#EXTINF:-1--------------MYTV---------------
+#EXTINF:-1, ITA - TV 8 
+https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:-1, ITA - CANALE 5 
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+#EXTINF:-1, ITA - ITALIA 1
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
