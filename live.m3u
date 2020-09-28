@@ -62,7 +62,5 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=15857468
 https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8?hdnea=st=1572279606~exp=1608028200~acl=/*~hmac=18c005bed78d7962401e55b92d29ee4f05023f9144388266daf5dfcf3b22b47a&Origin=www.cielotv.it
 #EXTINF:-1,IT: Dmax
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-#EXTINF:-1, IT: Home and Garden TV
-https://it.dplay.com/live/45084/hgtv-live-streaming/
 #EXTINF: -1, IT: Home and Garden TV 2
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8?
