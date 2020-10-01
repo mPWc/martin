@@ -62,3 +62,18 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?hdnts=st=1564228002~exp=1564314402~acl=/*~hmac=6c0b77c0af71417fd823ef483a0d15c72e267308b83fdcb0e1b2228dba9dd703&mux_audio=true
 #EXTINF:-1, ITA - Nove HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?hdnts=st=1585746893~exp=1585833293~acl=/i/*~hmac=7aa28aab591fe6ddf8d0480b4f202d3536f6f5b26dedf9d944c35b6320950ca4&mux_audio=true
+#EXTINF:-1, MK - Sitel
+http://51.89.67.64:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1, MK - Kanal5
+http://51.89.67.64:8081/tvstanici/2/playlist.m3u8
+#EXTINF:-1, MK - Telma
+http://151.80.119.241:8081/tvstanici/3/playlist.m3u8
+#EXTINF:-1, MK - Alfa
+http://151.80.119.241:8081/tvstanici/4/playlist.m3u8
+#EXTINF:-1, MK - 24Vesti TV
+http://151.80.119.241:8081/tvstanici/5/playlist.m3u8
+#EXTINF:-1, MK - Mrt1
+http://151.80.119.241:8081/tvstanici/6/playlist.m3u8
+#EXTINF:-1, MK - SkyFolk
+http://skyfolk.mk/live.m3u8
+
