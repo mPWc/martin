@@ -74,6 +74,3 @@ http://151.80.119.241:8081/tvstanici/4/playlist.m3u8
 http://151.80.119.241:8081/tvstanici/5/playlist.m3u8
 #EXTINF:-1, MK - Mrt1
 http://151.80.119.241:8081/tvstanici/6/playlist.m3u8
-#EXTINF:-1, MK - SkyFolk
-http://skyfolk.mk/live.m3u8
-
